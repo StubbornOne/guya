@@ -1,0 +1,17 @@
+{
+  "title": "Hyouge Mono",
+  "description": "Tea for Universe, Tea for Life",
+  "artist": "Yamada Yoshihiro",
+  "author": "Yamada Yoshihiro",
+  "cover": "https://i.imgur.com/dge6Rge.jpg",
+  "chapters": {
+    "143": {
+      "title": "Weird Sport",
+      "volume": "14",
+      "groups": {
+        "StubbornOne": "/proxy/api/imgur/chapter/LrFAerj/"
+      },
+      "last_updated": "1616941628"
+    }
+  }
+}
