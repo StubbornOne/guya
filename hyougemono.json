@@ -95,7 +95,7 @@
     },
     "154": {
       "title": "September Rain",
-      "volume": "14",
+      "volume": "15",
       "groups": {
         "StubbornOne": "/proxy/api/imgur/chapter/T69rOkv/"
       },
@@ -103,7 +103,7 @@
     },
     "155": {
       "title": "Grand Tripper",
-      "volume": "14",
+      "volume": "15",
       "groups": {
         "StubbornOne": "/proxy/api/imgur/chapter/stPJVWT/"
       },
@@ -111,11 +111,19 @@
     },
     "156": {
       "title": "Flying Sohsho",
-      "volume": "14",
+      "volume": "15",
       "groups": {
         "StubbornOne": "/proxy/api/imgur/chapter/OZYH6p6/"
       },
       "last_updated": "1625317261"
+    },
+    "157": {
+      "title": "Green Spider",
+      "volume": "15",
+      "groups": {
+        "StubbornOne": "/proxy/api/imgur/chapter/P3k1QxA/"
+      },
+      "last_updated": "1625929278"
     }
   }
 }
