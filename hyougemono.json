@@ -447,11 +447,19 @@
     },
     "198": {
       "title": "KONJIKI YAKSA",
-      "volume": "18",
+      "volume": "19",
       "groups": {
         "StubbornOne": "/proxy/api/imgur/chapter/Qwi7Cu7/"
       },
       "last_updated": "1654330960"
+    },
+    "199": {
+      "title": "Beast And The Beast",
+      "volume": "19",
+      "groups": {
+        "StubbornOne": "/proxy/api/imgur/chapter/v1rGpEG/"
+      },
+      "last_updated": "1654942237"
     }
   }
 }
