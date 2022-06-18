@@ -460,6 +460,14 @@
         "StubbornOne": "/proxy/api/imgur/chapter/v1rGpEG/"
       },
       "last_updated": "1654942237"
+    },
+    "200": {
+      "title": "Youths are everything",
+      "volume": "19",
+      "groups": {
+        "StubbornOne": "/proxy/api/imgur/chapter/7UUTya2/"
+      },
+      "last_updated": "1655527630"
     }
   }
 }
