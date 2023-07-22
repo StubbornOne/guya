@@ -815,7 +815,7 @@
     },
     "244": {
       "title": "Our GOLD",
-      "volume": "24",
+      "volume": "23",
       "groups": {
         "StubbornOne": "/proxy/api/imgur/chapter/RJxJImR/"
       },
@@ -823,7 +823,7 @@
     },
     "245": {
       "title": "Rock Garden",
-      "volume": "24",
+      "volume": "23",
       "groups": {
         "StubbornOne": "/proxy/api/imgur/chapter/1WlPcPW/"
       },
@@ -831,7 +831,7 @@
     },
     "246": {
       "title": "My pupils are marine blue",
-      "volume": "24",
+      "volume": "23",
       "groups": {
         "StubbornOne": "/proxy/api/imgur/chapter/4cx1WTm/"
       },
@@ -855,11 +855,19 @@
     },
     "249": {
       "title": "Fearless lovely boy",
-      "volume": "24",
+      "volume": "23",
       "groups": {
         "StubbornOne": "/proxy/api/imgur/chapter/Mi4Hvk3/"
       },
       "last_updated": "1689394926"
+    },
+    "250": {
+      "title": "Jealousy",
+      "volume": "23",
+      "groups": {
+        "StubbornOne": "/proxy/api/imgur/chapter/RZjjjiO/"
+      },
+      "last_updated": "1690038299"
     }
   }
 }
